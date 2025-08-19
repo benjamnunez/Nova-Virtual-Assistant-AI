@@ -1,0 +1,8 @@
+openai
+speechrecognition
+edge-tts
+asyncio
+unicodedata2
+pygame
+spotipy
+python-dotenv
